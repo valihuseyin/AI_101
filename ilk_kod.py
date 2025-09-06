@@ -1,3 +1,6 @@
 x = 5
-y = 7
-print(x+y)
+y = "huseyin"
+print(x)
+print(y)
+a = 1.564356
+print(f"Deger: {a:.2f}")
